@@ -1,0 +1,27 @@
+{
+  "name": "react-phone-input-2-css",
+  "version": "1.0.0",
+  "description": "Materail UI css for react-phone-input-2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalvijay/react-phone-input-2-css.git"
+  },
+  "keywords": [
+    "react-phone-input-2",
+    "material-ui",
+    "css"
+  ],
+  "author": {
+    "name": "Vishal Vijay",
+    "email": "0vishalvijay0@gmail.com"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vishalvijay/react-phone-input-2-css/issues"
+  },
+  "homepage": "https://github.com/vishalvijay/react-phone-input-2-css#readme"
+}
